@@ -1,0 +1,17 @@
+com\github\yzh179954\protobuff\Message$Person$PhoneType.class
+com\github\yzh179954\protobuff\Message$Person$PhoneNumberOrBuilder.class
+com\github\yzh179954\protobuff\Message$PersonOrBuilder.class
+com\github\yzh179954\protobuff\Message$Person$PhoneType$1.class
+com\github\yzh179954\controller\ProtobuffController.class
+com\github\yzh179954\protobuff\Message$Person$PhoneNumber$1.class
+com\github\yzh179954\controller\ProtobufProviders.class
+com\github\yzh179954\protobuff\Message$Person$PhoneNumber$Builder.class
+com\github\yzh179954\protobuff\Message$Person$Builder.class
+com\github\yzh179954\protobuff\Message.class
+com\github\yzh179954\controller\ProtobufProviders$ProtobufMessageBodyWriter.class
+com\github\yzh179954\protobuff\Message$Person.class
+com\github\yzh179954\protobuff\Message$Person$PhoneNumber.class
+com\github\yzh179954\protobuff\Message$Person$1.class
+com\github\yzh179954\controller\ProtobufProviders$ProtobufMessageBodyReader.class
+com\github\yzh179954\bean\User.class
+com\github\yzh179954\protobuff\Message$1.class
